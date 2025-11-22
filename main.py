@@ -291,7 +291,4 @@ if __name__ == "__main__":
         exit(1)
 
 
-# ========== requirements.txt ==========
-# Crée ce fichier séparément avec ce contenu :
-discord.py==2.3.2
-flask==3.0.0
+
